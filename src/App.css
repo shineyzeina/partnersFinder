@@ -1,0 +1,205 @@
+@import 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css';
+
+.form-wrapper {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.App {
+  text-align: center;
+  margin-top: 30px;
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+.form-control:disabled{
+  cursor: text;
+}
+
+.title {
+  color: #4b99ad;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.padlr-20 {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+
+.btn{
+  border-color: #4b99ad;
+    background-color:#4b99ad;
+    color: white;
+}
+
+.btn:hover{
+  border-color: #4b99ad;
+  background-color: white;
+  color: #4b99ad;
+}
+
+.btn:disabled{
+  border-color: lightgray;
+}
+
+.dp {
+  width: 270px;
+  line-height: 25px;
+  
+  padding: 0 20px;
+  font-size: 14px;
+}
+
+Checkbox {
+  width: 120px;
+  height: 40px;
+  background: #333;
+  margin: 20px 60px;
+  border-radius: 50px;
+  position: relative;
+}
+
+
+.popover {
+  max-width:75%;
+}
+
+i{
+  cursor: pointer;
+  color: #4b99ad;
+}
+
+.tab-pane {
+  padding: 5% 7%;
+}
+
+.nav {
+  border-color: #4b99ad;
+  color: #4b99ad;
+}
+
+.nav > li > a {
+  color: #4b99ad;
+}
+
+.label1{
+  color: #4b99ad;
+}
+
+.form-label{
+  color: #4b99ad;
+}
+
+.radiusBorder {
+  border: 1px solid #4b99ad;
+  border-radius: 25px ;
+  padding: 2% 5%;
+  margin-bottom: 30px;
+  overflow-y: auto;
+}
+
+.mainList {
+  border-bottom: 1px solid #4b99ad;
+  padding: 1% 0;
+  text-align: left;
+}
+
+.th1{
+  background-color: #4b99ad; 
+  color: "white"; 
+  font-weight: "bold";
+}
+
+.select1{
+  text-align: left;
+}
+
+.caret {
+  display: none;
+}
+
+.filepond--credits{
+  color:#fff !important;
+}
+
+.input-group-addon{
+  background-color: #fff;
+}
+
+
+.h-630 {
+  height: 630px;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.w-90 {
+  width: 90%;
+}
+
+.mar-2-25{
+  margin: 2% 25%;
+}
+
+.mar-2-10{
+  margin: 2% 10%;
+}
+
+.pad-1-1{
+  padding: 1% 1%;
+}
+
+.mr-2{
+  margin-right: 2px;
+}
+
+
+.tableHeader{
+  background-color:#4b99ad; 
+  color: white; 
+  font-weight: bold; 
+}
+
+.address{margin-bottom:15px;}
+
+.red {color:red;}
+.green {color:green;}
+h2
+{
+	color:#4b99ad;
+	font-size:18px;
+	text-align:center;
+	margin-top:15px;
+	margin-bottom:20px;
+	font-weight:bold;
+}
+
+
+
+
+
+
+
+
+
+
