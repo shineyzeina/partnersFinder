@@ -1,5 +1,5 @@
 # partnersFinder
-This is a typescript reactjs app that will allow you to filter partners from a json file. You can set your own coordinates and search for partners around you within a certain kilometers.
+This is a typescript reactjs app that will allow you to filter partners from a json file. You can set your own coordinates and search for partners around you within a certain kilometers. It is based on type script and react js only.
 
 ## Available Scripts
 
